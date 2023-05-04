@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "m1eXJIWDqiNKsBMwFLPmSGIMa4o8e9hIKIIRDTcmzfxPdbi/Cy/8dsSB+kTTFj3uPs8iNWYKbqVus0zhaHPCYg==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\.netCore\\MovieCleanProject\\Movie\\Movie.Domain\\Movie.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
