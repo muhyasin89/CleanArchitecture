@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Y+Tou79tcyNAbweHmPuoLT8VhsOJsQxBTNYRMOrf9sr35qZLRFTfmp4LmZK0p/4msWdM7V1s86Ll+uXMuhDwyA==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\.netCore\\BubleClean\\Bubble\\Bubble.Application\\Bubble.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.15\\microsoft.windowsdesktop.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.15\\microsoft.netcore.app.ref.6.0.15.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.15\\microsoft.aspnetcore.app.ref.6.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
