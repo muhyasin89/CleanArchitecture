@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "I/XTPjVxrLsX4payUThVczXp8C7qpWswYfOKinhKkB6l/a30A6qxJqO6Z0NgA3Ho0ap6ktxaRnnSlvv8cPvjxQ==",
+  "success": true,
+  "projectFilePath": "D:\\Personal\\Learning\\BuberDinner\\Buber.Applications\\Buber.Applications.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.2\\microsoft.windowsdesktop.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.2\\microsoft.netcore.app.ref.7.0.2.nupkg.sha512",
+    "C:\\Users\\Lenovo\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.2\\microsoft.aspnetcore.app.ref.7.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
